@@ -1,0 +1,7 @@
+C:\Users\alkaz\RiderProjects\Console .NET\Console .NET\bin\Debug\Console_.NET.exe
+C:\Users\alkaz\RiderProjects\Console .NET\Console .NET\bin\Debug\Console_.NET.pdb
+C:\Users\alkaz\RiderProjects\Console .NET\Console .NET\obj\Debug\Console .NET.csproj.AssemblyReference.cache
+C:\Users\alkaz\RiderProjects\Console .NET\Console .NET\obj\Debug\Console .NET.csproj.SuggestedBindingRedirects.cache
+C:\Users\alkaz\RiderProjects\Console .NET\Console .NET\obj\Debug\Console .NET.csproj.CoreCompileInputs.cache
+C:\Users\alkaz\RiderProjects\Console .NET\Console .NET\obj\Debug\Console_.NET.exe
+C:\Users\alkaz\RiderProjects\Console .NET\Console .NET\obj\Debug\Console_.NET.pdb
